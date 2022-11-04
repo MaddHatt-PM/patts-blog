@@ -6,7 +6,7 @@ import { FPS30, FPS60 } from "./useWebGL";
 const HeaderCanvas = () => {
   const [canvas, resizeCanvas] = useWebGL({
     initWidth: window.innerWidth,
-    initHeight: 500,
+    initHeight: 800,
     updateInterval: FPS30,
   })
 
