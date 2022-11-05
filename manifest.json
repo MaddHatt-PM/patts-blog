@@ -1,6 +1,6 @@
 {
-    "short_name": "Some cool things",
-    "name": "Some cool things in tech",
+    "short_name": "Some Resources",
+    "name": "Some Resources for Development",
     "icons": [{
             "src": "favicon.ico",
             "sizes": "64x64 32x32 24x24 16x16",
