@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/patts-blog/static/css/main.1a1aa370.css",
-    "main.js": "/patts-blog/static/js/main.100e120b.js",
+    "main.js": "/patts-blog/static/js/main.c8badeba.js",
     "static/js/787.3326589b.chunk.js": "/patts-blog/static/js/787.3326589b.chunk.js",
     "index.html": "/patts-blog/index.html",
     "main.1a1aa370.css.map": "/patts-blog/static/css/main.1a1aa370.css.map",
-    "main.100e120b.js.map": "/patts-blog/static/js/main.100e120b.js.map",
+    "main.c8badeba.js.map": "/patts-blog/static/js/main.c8badeba.js.map",
     "787.3326589b.chunk.js.map": "/patts-blog/static/js/787.3326589b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a1aa370.css",
-    "static/js/main.100e120b.js"
+    "static/js/main.c8badeba.js"
   ]
 }
