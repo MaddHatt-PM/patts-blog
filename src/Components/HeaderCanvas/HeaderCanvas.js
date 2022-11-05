@@ -18,7 +18,7 @@ const HeaderCanvas = () => {
   return (
     <Container>
       {canvas}
-      <H1>Some Cool Stuff</H1>
+      <H1>Some Resources</H1>
     </Container>
   );
 };
