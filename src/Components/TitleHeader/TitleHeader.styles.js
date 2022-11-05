@@ -10,7 +10,7 @@ export const H1 = styled.h1`
   user-select: none;
   overflow: hidden;
   translate: 0pt ${props => props.translateY};
-  padding-left: ${props => props.paddingLeft};
+  padding-left: calc(${props => props.paddingLeft} + env(safe-area-inset-left));
   
   color: #1b1f23;
 `;
