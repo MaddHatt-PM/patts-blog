@@ -5,7 +5,6 @@ function App() {
   return (
     <Container>
       <HeaderCanvas />
-      <p>Bottom text</p>
     </Container>
   );
 }

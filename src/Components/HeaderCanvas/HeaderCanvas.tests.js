@@ -3,4 +3,5 @@ import { render } from "@testing-library/react"
 importHeaderCanvasfrom "./HeaderCanvas";
 
 it("HeaderCanvas: renders correctly", () => {
-  const { queryByTestId, queryByPlaceholderName } = render(<HeaderCanvas/>);});
+  const { queryByTestId, queryByPlaceholderName } = render(<HeaderCanvas />);
+});
