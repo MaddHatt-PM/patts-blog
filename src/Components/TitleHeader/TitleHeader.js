@@ -4,9 +4,9 @@ import { H1 } from "./TitleHeader.styles";
 
 const minTextSettings = {
   screenWidth: 700,
-  fontSize: 60,
-  letterSpacing: -5.5,
-  translateY: -131.5,
+  fontSize: 36,
+  letterSpacing: -2,
+  translateY: -81,
   paddingLeft: 4
 }
 

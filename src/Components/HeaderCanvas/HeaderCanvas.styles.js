@@ -4,6 +4,6 @@ export const Container = styled.div`
   display: block;
   overflow: hidden;
 
-  height: 400px;
+  height: ${props => props.height};
 `;
 

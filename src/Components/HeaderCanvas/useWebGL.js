@@ -78,12 +78,13 @@ const useWebGL = ({ initWidth, initHeight, onInit, onResize }) => {
 
   }, []);
 
-  const resizeCanvas = () => {
+  const resizeCanvas = (height) => {
     const canvas = canvasRef.current;
     const gl = canvas.getContext("webgl");
     canvas.width = window.innerWidth;
     gl.viewport(0, 0, canvas.width, initHeight);
     gl.uniform1f(widthHandleRef.current, window.screen.width);
+    gl.uniform1f(heightHandleRef.current, height);
   }
 
   return [

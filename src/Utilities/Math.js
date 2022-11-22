@@ -20,7 +20,6 @@ export function getPercentage(start, end, val) {
 
 export function lerp(start, end, t) {
   t = clamp01(t);
-  console.log(t)
   return start * (1 - t) + end * t;
 }
 

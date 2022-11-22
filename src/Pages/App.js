@@ -8,13 +8,13 @@ function App() {
     <Container>
       <HeaderCanvas />
       <SafeArea>
+        A collection of links that I've found for a variety of programming and design topics.
         <NavigationBar>
 
         </NavigationBar>
-        A collection of links that I've found for a variety of programming and design topics.
 
-        <Footer />
       </SafeArea>
+      <Footer />
     </Container>
   );
 }
